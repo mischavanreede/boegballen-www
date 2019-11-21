@@ -1,4 +1,4 @@
-baseurl = "http://boegballen.nl"
+baseurl = ""
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "H.R.G. De Boegballen"
@@ -16,20 +16,20 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
   homeTitle = "Heren Roeigenootschap De Boegballen" # Set a different text for the header on the home page
   subtitle = "N.S.R.V Phocas, Nijmegen"
-  mainSections = ["post","posts"]
+  mainSections = ["post","posts"] # What is sections are shown on the home page
   logo = "img/lustrum-zoom-bb.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "1 January, 2006"
   commit = false
   rss = true
   comments = true
   readingTime = false
   wordCount = false
   useHLJS = true
-  socialShare = true
+  socialShare = false
   delayDisqus = true
-  showRelatedPosts = true
-#  hideAuthor = true
+  showRelatedPosts = false
+  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse (google custom search). Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
@@ -49,30 +49,14 @@ pygmentsCodefencesGuessSyntax = true
   website = "boegballen.nl"
   email = "abactis@boegballen.nl"
   facebook = "DeBoegballen"
-  #github = "username"
-  #gitlab = "username"
-  #bitbucket = "username"
-  #twitter = "username"
-  #reddit = "username"
   #linkedin = "username"
-  #xing = "username"
-  #stackoverflow = "users/XXXXXXX/username"
   #snapchat = "username"
   instagram = "hrgdeboegballen"
   #youtube = "user/username" # or channel/channelname
   #soundcloud = "username"
   #spotify = "username"
-  #bandcamp = "username"
-  #itchio = "username"
-  #vk = "username"
   #paypal = "username"
-  #telegram = "username"
-  #500px = "username"
-  #codepen = "username"
-  #mastodon = "url"
-  #kaggle = "username"
-  #weibo = "username"
-  #slack = "username"
+
 
 [[menu.main]]
     name = "Blog"
@@ -80,34 +64,34 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
+    identifier = "samples"
+    name = "Samples"
+    weight = 2
+
+    [[menu.main]]
+        parent = "samples"
+        name = "Big Image Sample"
+        url = "post/2017-03-07-bigimg-sample"
+        weight = 1
+
+    [[menu.main]]
+        parent = "samples"
+        name = "Math Sample"
+        url = "post/2017-03-05-math-sample"
+        weight = 2
+
+    [[menu.main]]
+        parent = "samples"
+        name = "Code Sample"
+        url = "post/2016-03-08-code-sample"
+        weight = 3
+
+[[menu.main]]
     name = "About"
     url = "page/about/"
     weight = 3
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
