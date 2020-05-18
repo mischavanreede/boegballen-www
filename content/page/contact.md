@@ -28,4 +28,3 @@ Wij borrelen om de 3 weken op dinsdag en elke eerste vrijdag van de maand in ons
 
 Aan het contactformulier wordt gewerkt.
 Nu een vraag? Mail dan naar abactis@hrgdeboegballen.nl en we reageren zo snel mogelijk.
-</p>
