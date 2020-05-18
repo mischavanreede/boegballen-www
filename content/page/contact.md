@@ -21,7 +21,7 @@ quaestor@hrgdeboegballen.nl
 
 --- 
 #### Stamcafé
-Wij borrelen om de 3 weken op dinsdag en elke eerste vrijdag van de maand in ons stamcafé [De Kluizenaar](http://www.dekluizenaar.nl/?lang=nl)
+Wij borrelen iedere twee weken in ons stamcafé [De Kluizenaar](http://www.dekluizenaar.nl/?lang=nl)
 
 ---
 #### Contactformulier
