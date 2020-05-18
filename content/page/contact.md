@@ -4,8 +4,6 @@ subtitle:
 comments: false
 ---
 
-<center>test</center>
-
 #### Adres secretariaat
 Riks adres
 
