@@ -1,5 +1,5 @@
 ---
-title: "Historie des H.R.G. De Boegballen"
+title: "Historie der H.R.G. De Boegballen"
 subtitle: 
 comments: false
 ---

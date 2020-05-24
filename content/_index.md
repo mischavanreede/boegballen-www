@@ -12,6 +12,6 @@ Het H.R.G. bestaat uit 21 mannen van variërende leeftijd en met uiteenlopende s
 
 We borrelen iedere twee weken in café [De Kluizenaar](http://www.dekluizenaar.nl/?lang=nl), waar ze ons traditiegetrouw voorzien van een heerlijk groot glas koude Paulaner. Hiernaast proberen we onze bierkennis op peil te houden tijdens ons jaarlijkse feutenweekend naar een stad in Europa. 
 
-Ben je nieuwsgierig geworden naar ons? Neem dan gerust contact op met onze [Ab](mailto:abactis@hrgdeboegballen.nl), 
+Ben je nieuwsgierig geworden naar ons? Neem dan gerust contact op met onze [Ab](mailto:abactis@boegballen.nl), 
 
 Wij zijn ook actief op [Facebook](https://www.facebook.com/DeBoegballen) en [Instagram](https://www.instagram.com/hrgdeboegballen/?hl=nl)!

@@ -6,25 +6,25 @@ comments: false
 
 ### Oprichtingslichting:
 Cederique Ortmans, Eric Jongeneelen, Job Boers, Tim van Heumen, Tom Roelofs
-### Lichting 2:
+### Lichting II:
 Ben van Zijl, Sander Vissenberg, Sam Daniels
-### Lichting 3:
+### Lichting III:
 Abe Marra, Michiel Berkenbosch
-### Lichting 4:
+### Lichting IV:
 Maarten Melissen, Sebastiaan Slange
-### Lichting 5:
+### Lichting V:
 Bas de Greef, Piron Stoop, Thijs Broeren, Jelko Dijkman
-### Lichting 6:
-(Luuk, Dennis, Frank)
-### Lichting 7:
+### Lichting VI:
+Luuk Soolsma, Dennis Jongste, Frank Seelen
+### Lichting VII:
 Cees van Bragt, Daniël Wilms van Kersbergen
-### Lichting 8: 
+### Lichting VIII: 
 Bas Pouwer, Jorian Leerling, Laurens Kubat, Mathijs Prudon
-### Lichting 9:
-Arlan van Spijk, Jasper Krul – lichting 9
-### Lichting 10:
+### Lichting IX:
+Arlan van Spijk, Jasper Krul
+### Lichting X:
 Casper ten Dam, Mischa van Reede
-### Lichting 11:
+### Lichting XI:
 Glenn Ludwig, Luc Heurneman, Joost Swaving, Wessel Bonneur, Rik van den Brule 
-### Lichting 12: 
+### Lichting XII: 
 Emiel Fleer, Koen Stoetman, Wisse Tomassen, Michiel Storm, Milan Booms

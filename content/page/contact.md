@@ -5,15 +5,15 @@ comments: false
 ---
 
 #### Adres secretariaat
-Riks adres
+Nieuwe Nonnedaalseweg 247, Nijmegen
 
 #### E-mailadressen:
 Praeses\
-praeses@hrgdeboegballen.nl\
+praeses@boegballen.nl\
 Ab Actis\
-abactis@hrgdeboegballen.nl\
+abactis@boegballen.nl\
 Quaestor\
-quaestor@hrgdeboegballen.nl
+quaestor@boegballen.nl
 
 &nbsp;
 
@@ -27,4 +27,4 @@ Wij borrelen iedere twee weken in ons stamcafé [De Kluizenaar](http://www.deklu
 #### Contactformulier
 
 Aan het contactformulier wordt gewerkt.
-Nu een vraag? Mail dan naar abactis@hrgdeboegballen.nl en we reageren zo snel mogelijk.
+Nu een vraag? Mail dan naar abactis@boegballen.nl en we reageren zo snel mogelijk.

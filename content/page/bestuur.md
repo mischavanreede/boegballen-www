@@ -4,11 +4,17 @@ subtitle:
 comments: false
 ---
 
-### Ve bestuur
+## Huidig bestuur
+### Ve Bestuur
+
+![b](/img/BestuurV.jpg)
 Praeses: Glenn Ludwig\
 Abactis: Rik van den Brule\
 Quaestor: Mischa van Reede
 
+&nbsp;
+
+## Oud-besturen
 ### IVe Bestuur
 Praeses: Mathijs Prudon\
 Abactis: Jasper Krul\
