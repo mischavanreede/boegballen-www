@@ -63,10 +63,10 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/essentialia"
     weight = 1
 
-[[menu.main]]
-    name = "Historie"
-    url = "page/historie"
-    weight = 2
+#[[menu.main]]
+#    name = "Historie"
+#    url = "page/historie"
+#    weight = 2
 
 [[menu.main]]
     name = "Activiteiten"
