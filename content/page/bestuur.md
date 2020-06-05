@@ -7,7 +7,7 @@ comments: false
 ## Huidig bestuur
 ### Ve Bestuur
 
-![a](/img/BestuurV.jpg)
+![VeBestuur](/img/bestuur/BestuurV.jpg)
 Praeses: Glenn Ludwig\
 Abactis: Rik van den Brule\
 Quaestor: Mischa van Reede
@@ -17,7 +17,7 @@ Quaestor: Mischa van Reede
 ## Oud-besturen
 ### IVe Bestuur
 
-
+![IVeBestuur](/img/bestuur/BestuurIV.jpg)
 Praeses: Mathijs Prudon\
 Abactis: Jasper Krul\
 Quaestor: Daniël Wilms van Kersbergen
@@ -31,14 +31,14 @@ Quaestor: Cees van Bragt
 
 ### IIe Bestuur
 
-![d](/img/BestuurII.jpg)
+![IIeBestuur](/img/bestuur/BestuurII.jpg)
 Praeses: Cees van Bragt\
 Abactis: Maarten Melissen\
 Quaestor: Piron Stoop
 
 ### Ie Bestuur
 
-![e](/img/BestuurI.jpg)
+![IeBestuur](/img/bestuur/BestuurI.jpg)
 Praeses: Bas de Greef\
 Abactis: Maarten Melissen\
 Quaestor: Piron Stoop

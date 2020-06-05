@@ -1,10 +1,10 @@
 ---
-title: "Heren Roeigenootschap De Boegballen"
-subtitle: "N.S.R.V Phocas, Nijmegen"
+title: "Heeren Roeigenootschap De Boegballen"
+subtitle: "N.S.R.V. Phocas, Nijmegen"
 comments: false
 ---
 
-Welkom op de site van Heren Roei Genootschap de Boegballen!
+Welkom op de site van Heeren Roeigenootschap de Boegballen!
 
 Wij zijn een hechte groep mannen die houdt van roeien, een stevig bord pasta pesto en een goed glas bier (of wijn). Wij zijn niet alleen roeiend, maar ook fietsend en hardlopend te bewonderen in het prachtige Nijmegen.
 

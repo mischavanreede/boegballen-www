@@ -14,8 +14,8 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Heren Roeigenootschap De Boegballen" # Set a different text for the header on the home page
-  subtitle = "N.S.R.V Phocas, Nijmegen"
+  homeTitle = "Heeren Roeigenootschap De Boegballen" # Set a different text for the header on the home page
+  subtitle = "N.S.R.V. Phocas, Nijmegen"
   mainSections = [] # What is sections are shown on the home page
   logo = "img/lustrum-zoom-bb.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
