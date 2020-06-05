@@ -49,6 +49,8 @@ comments: false
 {{< figure link="/img/leden/WesselBonneur.jpg" caption="Wessel Bonneur">}}
 {{< figure link="/img/leden/RikvandenBrule.jpg" caption="Rik van den Brule">}}
 {{< /gallery >}}
+
+---
 ### Lichting XII
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/EmielFleer.jpg" caption="Emiel Fleer">}}
