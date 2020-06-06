@@ -63,3 +63,10 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# hugo build
+public/
+
+# Intellij IDE files
+.idea/
+

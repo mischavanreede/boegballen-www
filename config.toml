@@ -19,9 +19,9 @@ pygmentsCodefencesGuessSyntax = true
   mainSections = [] # What is sections are shown on the home page
   logo = "img/lustrum-zoom-bb.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "1 January, 2006"
+  dateFormat = "1 January, 2020"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = false
   wordCount = false
@@ -45,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Mischa van Reede"
+  name = "H.R.G. De Boegballen"
   #website = "boegballen.nl"
   email = "abactis@boegballen.nl"
   facebook = "DeBoegballen"
