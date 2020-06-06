@@ -33,7 +33,7 @@ pygmentsCodefencesGuessSyntax = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse (google custom search). Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
-  src = "img/Omslagfoto.png"
+  src = "img/banner.png"
 #  desc = "Triangle"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
@@ -45,8 +45,8 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "mischavanreede"
-  website = "boegballen.nl"
+  name = "Mischa van Reede"
+  #website = "boegballen.nl"
   email = "abactis@boegballen.nl"
   facebook = "DeBoegballen"
   #linkedin = "username"

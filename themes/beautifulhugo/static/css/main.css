@@ -144,7 +144,7 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 15px;
   letter-spacing: 1px;
 }
 
@@ -578,7 +578,7 @@ footer .theme-by {
   .intro-header .page-heading h1,
   .intro-header .tags-heading h1,
   .intro-header .categories-heading h1 {
-    font-size: 60px;     /* @@@@@@@@@  <======   changed this from 80 for title*/
+    font-size: 55px;     /* @@@@@@@@@  <======   changed this from 80 for title*/
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
