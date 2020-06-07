@@ -5,32 +5,95 @@
     <link>/page/</link>
     <description>Recent content in Pages on H.R.G. De Boegballen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>abactis@boegballen.nl (mischavanreede)</managingEditor>
-    <webMaster>abactis@boegballen.nl (mischavanreede)</webMaster>
-    <lastBuildDate>Thu, 21 Nov 2019 14:20:27 +0100</lastBuildDate>
+    <managingEditor>abactis@boegballen.nl (H.R.G. De Boegballen)</managingEditor>
+    <webMaster>abactis@boegballen.nl (H.R.G. De Boegballen)</webMaster>
     
 	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Essentialia</title>
-      <link>/page/essentialia/</link>
-      <pubDate>Thu, 21 Nov 2019 14:20:27 +0100</pubDate>
-      <author>abactis@boegballen.nl (mischavanreede)</author>
-      <guid>/page/essentialia/</guid>
-      <description> Naam Heren Roeigenootschap De Boegballen
-Opgericht Erkend Sigillum Kleuren Doelstelling </description>
+      <title>Activiteiten der H.R.G. de Boegballen</title>
+      <link>/page/activiteiten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abactis@boegballen.nl (H.R.G. De Boegballen)</author>
+      <guid>/page/activiteiten/</guid>
+      <description>Elfstedenroeimarathon Jaarlijks reist in het weekend na Hemelvaartsdag een grote groep rood-blauw geklede heren naar het hoge noorden om mee te doen aan de Elfsteden Roeimarathon. Dit is een roei estafette over een parcour van 210 kilometer die aan een stuk verroeid wordt. In samenwerking met onze reünisten varen we met zo veel mogelijk leden deze lange tocht in één of meerdere C2* boten. Langs de kant houden de niet-roeiende leden zich bezig met het verzorgen van de maaltijden, het ontdekken van de prachtige Friese landschappen en uiteraard het voorbereiden op het roeien van de volgende etappe.</description>
     </item>
     
     <item>
-      <title>About me</title>
-      <link>/page/about/</link>
+      <title>Besturen</title>
+      <link>/page/bestuur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>abactis@boegballen.nl (mischavanreede)</author>
-      <guid>/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <author>abactis@boegballen.nl (H.R.G. De Boegballen)</author>
+      <guid>/page/bestuur/</guid>
+      <description>Huidig bestuur Ve Bestuur Praeses: Glenn Ludwig
+Abactis: Rik van den Brule
+Quaestor: Mischa van Reede
+&amp;nbsp;
+Oud-besturen IVe Bestuur Praeses: Mathijs Prudon
+Abactis: Jasper Krul
+Quaestor: Daniël Wilms van Kersbergen
+IIIe Bestuur Praeses: Laurens Kubat
+Abactis: Jorian Leerling
+Quaestor: Cees van Bragt
+IIe Bestuur Praeses: Cees van Bragt
+Abactis: Maarten Melissen
+Quaestor: Piron Stoop
+Ie Bestuur Praeses: Bas de Greef
+Abactis: Maarten Melissen
+Quaestor: Piron Stoop</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abactis@boegballen.nl (H.R.G. De Boegballen)</author>
+      <guid>/page/contact/</guid>
+      <description>Adres secretariaat Nieuwe Nonnedaalseweg 247, Nijmegen
+E-mailadressen: Praeses
+praeses@boegballen.nl
+Ab Actis
+abactis@boegballen.nl
+Quaestor
+quaestor@boegballen.nl
+&amp;nbsp;
+We zijn ook te vinden op facebook en Instagram Stamcafé Wij borrelen iedere twee weken in ons stamcafé De Kluizenaar
+Contactformulier Aan het contactformulier wordt gewerkt. Nu een vraag? Mail dan naar abactis@boegballen.nl en we reageren zo snel mogelijk.</description>
+    </item>
+    
+    <item>
+      <title>Essentialia</title>
+      <link>/page/essentialia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abactis@boegballen.nl (H.R.G. De Boegballen)</author>
+      <guid>/page/essentialia/</guid>
+      <description>Essentialia      Naam Heeren Roeigenootschap De Boegballen   Opgericht 8 april 2015   Erkend 27 Augustus 2019   Doelstelling Het H.R.G. heeft ten doel de gezelligheid onder haar leden te bevorderen en de roeisport binnen de Nijmeegse Studenten Roeivereniging Phocas en daarbuiten te bedrijven en te bevorderen.   Sigillum Messing boegbal aan rood-blauw lint   Vlag In vierendeel geblokt met aan mastzijde in de bovenhoek een blauw vlak en in de onderhoek een rood vlak.</description>
+    </item>
+    
+    <item>
+      <title>Historie der H.R.G. De Boegballen</title>
+      <link>/page/historie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abactis@boegballen.nl (H.R.G. De Boegballen)</author>
+      <guid>/page/historie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leden</title>
+      <link>/page/leden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abactis@boegballen.nl (H.R.G. De Boegballen)</author>
+      <guid>/page/leden/</guid>
+      <description>Lichting IV Sebastiaan Slange
+Lichting VII Cees van Bragt
+Daniël Wilms van Kersbergen
+Lichting VIII Bas Pouwer
+Jorian Leerling
+Laurens Kubat
+Mathijs Prudon
+Lichting IX Arlan van Spijk</description>
     </item>
     
   </channel>
