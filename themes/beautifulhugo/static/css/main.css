@@ -117,7 +117,8 @@ img::-moz-selection {
 img {
   display: block;
   margin: auto;
-  max-width: 100%;
+  width: 90%;
+  max-width: 1200px;
 }
 
 .img-title {
