@@ -7,7 +7,7 @@ comments: false
 ---
 ### Lichting IV
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/SebastiaanSlange.jpg" caption="Sebastiaan Slange" >}}
+{{< figure link="img/leden/SebastiaanSlange.jpg" caption="Sebastiaan Slange" >}}
 {{< /gallery >}}
 
 ---
