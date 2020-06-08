@@ -43,7 +43,7 @@
 <!-- Hugo Version number -->
   {{ hugo.Generator -}}
 <!-- Links and stylesheets -->
-  <link rel = "stylesheet" href="{{ "css/main.css" }}">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL}}">
   <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   {{- if .Site.Params.selfHosted -}}
