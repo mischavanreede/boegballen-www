@@ -14,7 +14,7 @@ Voor de souplesse, technisch inzicht en finesse viel hun oog op een Limburger. Z
 In de dagen die volgen zochten zij naar meer spierkracht voor in de boot. Ze benaderen, man of the steroïds, Daniël-Jan en fit-boy Job, en overtuigden hen ervan om zich bij het kwartet te voegen.
 Tom, Tim, Eric, Céderique, Job en Daniël-Jan keken naar elkaar, en zagen dat het goed was. Zes mannen, de zoektocht lijkt compleet.  
 
-Er wordt gezocht naar een naam voor dit roeiteam. Namens zoals Rowvulatie passeerde de revue. Maar er werd verder gezocht naar een meer passende naam, een naam die past bij meer verbroedering en gelijkheid. Waar deze heren in het bijzonder in overeenkomen is de omvang van hun teelballen, of het compensatiegedrag hiervoor. Dus de link met de ballen is snel gelegd. In de roeisport is er maar één bal van belang, de boegbal! Een boegbal komt als eerste over de finish en een boegbal bepaalt het verschil tussen winst of verlies. 
+Er wordt gezocht naar een naam voor dit roeiteam. Namens zoals Rowvulatie passeerde de revue. Maar er werd verder gezocht naar een meer passende naam, een naam die past bij meer verbroedering en gelijkheid. Waar deze heren in het bijzonder in overeenkomen is de omvang van hun ballen, of het compensatiegedrag hiervoor. In de roeisport is er maar één bal van belang, de boegbal! Een boegbal komt als eerste over de finish en een boegbal bepaalt het verschil tussen winst of verlies. 
 
 &nbsp;
 
