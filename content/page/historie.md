@@ -9,7 +9,7 @@ Zij hebben zich weeldig en kleurig uitgedost voor de Boco Loco Discoshow van die
 
 Een dorstige blonde jongeheer genaamd Eric voegt zich bij de heren aan de bar. Hij vangt hun gesprek op over de mogelijke successen van dit roeiteam. In een enkel ogenblik wordt zijn diepste verlangen van een succesvol roeiteam geraakt. De twinkeling in de ogen van Eric blijft niet onopgemerkt bij het drinkende duo. De heren raken in gesprek met Eric en besluiten een roeiteam te vormen. Met drie personen, waren zij echter nog niet compleet voor een roeiboot.
 
-Voor de souplesse, technisch inzicht en finesse viel hun oog op een Limburger met wilde manen. Zijn uithoudingsvermogen, danskwaliteiten en vulcapaciteit voor een man van zijn lengte, waren niet onopgemerkt gebleven. Het promillage steeg tot grote hoogten en na verloop van tijd besloot het trio een gesprek aan te knopen in het la-la-la-Limburgs met Céderique. Hij bleek de perfecte libero, de man die zich veelzijdig kon inzetten als zowel roeier, stuur als coach. 
+Voor de souplesse, technisch inzicht en finesse viel hun oog op een Limburger. Zijn uithoudingsvermogen, danskwaliteiten en vulcapaciteit voor een man van zijn lengte, waren niet onopgemerkt gebleven. Het promillage steeg tot grote hoogten en na verloop van tijd besloot het trio een gesprek aan te knopen met Céderique. Hij bleek de perfecte libero, de man die zich veelzijdig kon inzetten als zowel roeier, stuur als coach. 
 
 In de dagen die volgen zochten zij naar meer spierkracht voor in de boot. Ze benaderen, man of the steroïds, Daniël-Jan en fit-boy Job, en overtuigden hen ervan om zich bij het kwartet te voegen.
 Tom, Tim, Eric, Céderique, Job en Daniël-Jan keken naar elkaar, en zagen dat het goed was. Zes mannen, de zoektocht lijkt compleet.  

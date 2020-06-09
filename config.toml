@@ -83,6 +83,23 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/leden"
     weight = 5
 
+#[[menu.main]]
+#    identifier = "Leden"
+#    name = "Leden"
+#    weight = 5
+
+#[[menu.main]]
+#    parent = "Leden"
+#    name = "Huidige Leden"
+#    url = "page/leden"
+#    weight = 1
+
+#[[menu.main]]
+#    parent = "Leden"
+#    name = "Reünisten"
+#    url = "page/reunisten"
+#    weight = 2
+
 [[menu.main]]
     name = "Contact"
     url = "page/contact"
