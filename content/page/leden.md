@@ -36,7 +36,7 @@ comments: false
 ---
 ### Lichting X
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/CaspertenDam.jpg" src="img/leden/CaspertenDam.jpg" caption="Casper ten dam">}}
+{{< figure link="/img/leden/CaspertenDam.jpg" src="img/leden/CaspertenDam.jpg" caption="Casper ten Dam">}}
 {{< figure link="/img/leden/MischavanReede.jpg" src="img/leden/MischavanReede.jpg" caption="Mischa van Reede">}}
 {{< /gallery >}}
 
