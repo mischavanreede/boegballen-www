@@ -19,7 +19,7 @@ Ing. S. Daniels\
 S. Vissenberg\
 B. van Zijl, BEng, MSc
 #### Lichting III
-M. Berkenbosch\
+M. Berkenbosch, MSc\
 A. Marra, MSc
 #### Lichting IV
 M. Melissen
