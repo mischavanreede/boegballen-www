@@ -99,3 +99,8 @@ pygmentsCodefencesGuessSyntax = true
     name = "Contact"
     url = "page/contact"
     weight = 6
+
+[[menu.main]]
+    name = "Login"
+    url = "page/login"
+    weight = 7
