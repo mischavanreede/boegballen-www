@@ -22,7 +22,7 @@ B. van Zijl, BEng, MSc
 M. Berkenbosch, MSc\
 A. Marra, MSc
 #### Lichting IV
-M. Melissen
+M. Melissen\
 S. Slange
 #### Lichting V
 T. Broeren, MSc\
