@@ -5,6 +5,15 @@ comments: false
 ---
 
 ## Huidig bestuur
+### VIe Bestuur
+
+Praeses: Emiel Fleer\
+Abactis: Glenn Ludwig\
+Quaestor: Casper ten Dam
+
+&nbsp;
+
+## Oud-besturen
 ### Ve Bestuur
 
 ![VeBestuur](/img/bestuur/BestuurV.jpg)
@@ -12,9 +21,6 @@ Praeses: Glenn Ludwig\
 Abactis: Rik van den Brule\
 Quaestor: Mischa van Reede
 
-&nbsp;
-
-## Oud-besturen
 ### IVe Bestuur
 
 ![IVeBestuur](/img/bestuur/BestuurIV.jpg)
@@ -23,7 +29,6 @@ Abactis: Jasper Krul\
 Quaestor: Daniël Wilms van Kersbergen
 
 ### IIIe Bestuur
-
 
 Praeses: Laurens Kubat\
 Abactis: Jorian Leerling\

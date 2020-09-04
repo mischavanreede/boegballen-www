@@ -23,6 +23,7 @@ M. Berkenbosch, MSc\
 A. Marra, MSc
 #### Lichting IV
 M. Melissen
+S. Slange
 #### Lichting V
 T. Broeren, MSc\
 J. Dijkman, MSc\

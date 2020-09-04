@@ -5,12 +5,6 @@ comments: false
 ---
 
 ---
-### Lichting IV
-{{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/SebastiaanSlange.jpg" src="img/leden/SebastiaanSlange.jpg" caption="Sebastiaan Slange" >}}
-{{< /gallery >}}
-
----
 ### Lichting VII
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/CeesvanBragt.jpg" src="img/leden/CeesvanBragt.jpg" caption="Cees van Bragt">}}
