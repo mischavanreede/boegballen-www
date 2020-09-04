@@ -7,6 +7,7 @@ comments: false
 ## Huidig bestuur
 ### VIe Bestuur
 
+![VIeBestuur](/img/bestuur/BestuurVI.jpeg)
 Praeses: Emiel Fleer\
 Abactis: Glenn Ludwig\
 Quaestor: Casper ten Dam
