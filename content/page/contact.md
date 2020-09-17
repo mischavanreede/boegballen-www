@@ -5,7 +5,7 @@ comments: false
 ---
 
 #### Adres secretariaat
-Nieuwe Nonnedaalseweg 247, Nijmegen
+Hertogstraat 29, 6511 RV, Nijmegen
 
 #### E-mailadressen:
 Praeses\
