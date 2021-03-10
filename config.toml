@@ -100,7 +100,7 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/contact"
     weight = 6
 
-[[menu.main]]
-    name = "Login"
-    url = "page/login"
-    weight = 7
+#[[menu.main]]
+#    name = "Login"
+#    url = "page/login"
+#    weight = 7
