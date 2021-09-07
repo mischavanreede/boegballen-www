@@ -7,7 +7,7 @@ comments: false
 ## Huidig bestuur
 ### VIIe Bestuur
 
-
+![VIIeBestuur](/img/bestuur/BestuurVII.jpg)
 Praeses: Milan Booms\
 Abactis: Wessel Bonneur\
 Quaestor: Luc Heurneman
