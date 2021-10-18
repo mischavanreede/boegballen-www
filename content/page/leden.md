@@ -14,7 +14,6 @@ comments: false
 ---
 ### Lichting VIII
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/BasPouwer.jpg" src="img/leden/BasPouwer.jpg" caption="Bas Pouwer">}}
 {{< figure link="/img/leden/JorianLeerling.jpg" src="img/leden/JorianLeerling.jpg" caption="Jorian Leerling">}}
 {{< figure link="/img/leden/LaurensKubat.jpg" src="img/leden/LaurensKubat.jpg" caption="Laurens Kubat">}}
 {{< figure link="/img/leden/MathijsPrudon.jpg" src="img/leden/MathijsPrudon.jpg" caption="Mathijs Prudon">}}

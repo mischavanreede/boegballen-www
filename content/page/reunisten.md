@@ -31,3 +31,5 @@ B. de Greef, MSc\
 Ing. P. Stoop
 #### Lichting VI
 Ing. D. Jongste
+#### Lichting VIII
+B. Pouwer
