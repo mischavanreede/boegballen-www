@@ -4,7 +4,7 @@ subtitle:
 comments: false
 ---
 
->Barack Obama zei: 'beter goed gestolen dan slecht bedacht'.\
+>Barack Obama zei: 'Beter goed gestolen dan slecht bedacht'.\
 >Daarom is er nooit een moment van afscheid voor een Boegbal want lid blijf je voor het leven.
 
 #### Lichting I
