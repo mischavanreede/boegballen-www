@@ -62,12 +62,12 @@ comments: false
 {{< /gallery >}}
 
 ---
-Foto's door [Fleur Freke](mailto:fleur@freke.eu)
+### Lichting XIV
+{{< gallery hover-effect="none" caption-effect="none" >}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Thomas Hermsen">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Jochem van der Meer">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Lars de Nooij">}}
+{{< /gallery >}}
 
 ---
-### Bijballen
-{{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 1">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 2">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 3">}}
-{{< /gallery >}}
+Foto's door [Fleur Freke](mailto:fleur@freke.eu)
