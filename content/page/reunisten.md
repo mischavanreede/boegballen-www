@@ -4,7 +4,7 @@ subtitle:
 comments: false
 ---
 
->Barack Obama zei: 'beter goed gestolen dan slecht bedacht'.\
+>Barack Obama zei: 'Beter goed gestolen dan slecht bedacht'.\
 >Daarom is er nooit een moment van afscheid voor een Boegbal want lid blijf je voor het leven.
 
 #### Lichting I
@@ -22,7 +22,8 @@ B. van Zijl, BEng, MSc
 M. Berkenbosch, MSc\
 A. Marra, MSc
 #### Lichting IV
-M. Melissen
+M. Melissen\
+S. Slange
 #### Lichting V
 T. Broeren, MSc\
 J. Dijkman, MSc\
@@ -30,3 +31,5 @@ B. de Greef, MSc\
 Ing. P. Stoop
 #### Lichting VI
 Ing. D. Jongste
+#### Lichting VIII
+B. Pouwer

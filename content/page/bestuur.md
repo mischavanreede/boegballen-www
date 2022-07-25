@@ -5,6 +5,23 @@ comments: false
 ---
 
 ## Huidig bestuur
+### VIIe Bestuur
+
+![VIIeBestuur](/img/bestuur/BestuurVII.jpg)
+Praeses: Milan Booms\
+Abactis: Wessel Bonneur\
+Quaestor: Luc Heurneman
+
+&nbsp;
+
+## Oud-besturen
+### VIe Bestuur
+
+![VIeBestuur](/img/bestuur/BestuurVI.jpeg)
+Praeses: Emiel Fleer\
+Abactis: Glenn Ludwig\
+Quaestor: Casper ten Dam
+
 ### Ve Bestuur
 
 ![VeBestuur](/img/bestuur/BestuurV.jpg)
@@ -12,9 +29,6 @@ Praeses: Glenn Ludwig\
 Abactis: Rik van den Brule\
 Quaestor: Mischa van Reede
 
-&nbsp;
-
-## Oud-besturen
 ### IVe Bestuur
 
 ![IVeBestuur](/img/bestuur/BestuurIV.jpg)
@@ -23,7 +37,6 @@ Abactis: Jasper Krul\
 Quaestor: Daniël Wilms van Kersbergen
 
 ### IIIe Bestuur
-
 
 Praeses: Laurens Kubat\
 Abactis: Jorian Leerling\

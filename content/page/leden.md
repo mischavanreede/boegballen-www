@@ -5,12 +5,6 @@ comments: false
 ---
 
 ---
-### Lichting IV
-{{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/SebastiaanSlange.jpg" src="img/leden/SebastiaanSlange.jpg" caption="Sebastiaan Slange" >}}
-{{< /gallery >}}
-
----
 ### Lichting VII
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/CeesvanBragt.jpg" src="img/leden/CeesvanBragt.jpg" caption="Cees van Bragt">}}
@@ -20,7 +14,6 @@ comments: false
 ---
 ### Lichting VIII
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/BasPouwer.jpg" src="img/leden/BasPouwer.jpg" caption="Bas Pouwer">}}
 {{< figure link="/img/leden/JorianLeerling.jpg" src="img/leden/JorianLeerling.jpg" caption="Jorian Leerling">}}
 {{< figure link="/img/leden/LaurensKubat.jpg" src="img/leden/LaurensKubat.jpg" caption="Laurens Kubat">}}
 {{< figure link="/img/leden/MathijsPrudon.jpg" src="img/leden/MathijsPrudon.jpg" caption="Mathijs Prudon">}}
@@ -61,5 +54,20 @@ comments: false
 {{< /gallery >}}
 
 ---
+### Lichting XIII
+{{< gallery hover-effect="none" caption-effect="none" >}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Thom Tavenier">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Mats Wapstra">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Tim Ansink">}}
+{{< /gallery >}}
 
+---
+### Lichting XVI
+{{< gallery hover-effect="none" caption-effect="none" >}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Thomas Hermsen">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Jochem van der Meer">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Lars de Nooij">}}
+{{< /gallery >}}
+
+---
 Foto's door [Fleur Freke](mailto:fleur@freke.eu)

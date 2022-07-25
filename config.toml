@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
   homeTitle = "Heeren Roeigenootschap De Boegballen" # Set a different text for the header on the home page
   subtitle = "N.S.R.V. Phocas, Nijmegen"
   mainSections = [] # What is sections are shown on the home page
-  logo = "img/lustrum-zoom-bb.jpg" # Expecting square dimensions
+  logo = "img/logobb.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "1 January, 2020"
   commit = false
@@ -99,3 +99,8 @@ pygmentsCodefencesGuessSyntax = true
     name = "Contact"
     url = "page/contact"
     weight = 6
+
+#[[menu.main]]
+#    name = "Login"
+#    url = "page/login"
+#    weight = 7
