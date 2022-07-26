@@ -39,6 +39,8 @@ jobs:
 
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.4.12
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
         with:
           # The Hugo version to download (if necessary) and use. Example: 0.58.2
           hugo-version: latest # optional, default is latest
@@ -49,8 +51,9 @@ jobs:
         run: hugo
 
       - name: Deploy to Firebase
-        uses: w9jds/firebase-action@master
+        uses: w9jds/firebase-action@master  
         with:
           args: deploy --only hosting
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_BOEGBALLEN_A0916 }}
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
