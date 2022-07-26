@@ -20,7 +20,7 @@ jobs:
           #firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BOEGBALLEN_A0916 }}'
           #channelId: live
           #projectId: boegballen-a0916
-          firebase-token: '${{ FIREBASE_SERVICE_ACCOUNT_BOEGBALLEN_A0916 }}'
+          firebase-token: '${{ secrets.IREBASE_SERVICE_ACCOUNT_BOEGBALLEN_A0916 }}'
           #firebase-token: ${{ secrets.firebase_token }}
           #alias: ${{ alias }} // Optional
           #hugo-params: -D // Optional. Any params for the `hugo` command. [Refer doc here](https://gohugo.io/commands/hugo/) 
