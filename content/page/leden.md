@@ -30,7 +30,6 @@ comments: false
 ### Lichting X
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/CaspertenDam.jpg" src="img/leden/CaspertenDam.jpg" caption="Casper ten Dam">}}
-{{< figure link="/img/leden/MischavanReede.jpg" src="img/leden/MischavanReede.jpg" caption="Mischa van Reede">}}
 {{< /gallery >}}
 
 ---
@@ -48,7 +47,6 @@ comments: false
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/EmielFleer.jpg" src="img/leden/EmielFleer.jpg" caption="Emiel Fleer">}}
 {{< figure link="/img/leden/KoenStoetman.jpg" src="img/leden/KoenStoetman.jpg" caption="Koen Stoetman">}}
-{{< figure link="/img/leden/WisseTomassen.jpg" src="img/leden/WisseTomassen.jpg" caption="Wisse Tomassen">}}
 {{< figure link="/img/leden/MichielStorm.jpg" src="img/leden/MichielStorm.jpg" caption="Michiel Storm">}}
 {{< figure link="/img/leden/MilanBooms.jpg" src="img/leden/MilanBooms.jpg" caption="Milan Booms">}}
 {{< /gallery >}}

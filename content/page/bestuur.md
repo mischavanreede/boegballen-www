@@ -5,6 +5,15 @@ comments: false
 ---
 
 ## Huidig bestuur
+### VIIIe Bestuur
+
+Praeses: Mats Wapstra\
+Abactis: Emiel Fleer\
+Quaestor: Thom Tavenier
+
+&nbsp;
+
+## Oud-besturen
 ### VIIe Bestuur
 
 ![VIIeBestuur](/img/bestuur/BestuurVII.jpg)
@@ -12,9 +21,6 @@ Praeses: Milan Booms\
 Abactis: Wessel Bonneur\
 Quaestor: Luc Heurneman
 
-&nbsp;
-
-## Oud-besturen
 ### VIe Bestuur
 
 ![VIeBestuur](/img/bestuur/BestuurVI.jpeg)

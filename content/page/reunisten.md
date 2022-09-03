@@ -33,3 +33,7 @@ Ing. P. Stoop
 Ing. D. Jongste
 #### Lichting VIII
 B. Pouwer
+#### Lichting X
+M. van Reede
+#### Lichting XII
+W. Tomassen
