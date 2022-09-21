@@ -5,7 +5,7 @@ comments: false
 ---
 
 #### Adres secretariaat
-Van Haapsstraat 60, 6525 CD, Nijmegen
+Pater Brugmanstraat 1, 6522 EG, Nijmegen
 
 #### E-mailadressen:
 Praeses\
