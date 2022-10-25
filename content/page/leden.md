@@ -60,7 +60,7 @@ comments: false
 {{< /gallery >}}
 
 ---
-### Lichting XVI
+### Lichting XIV
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Thomas Hermsen">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Jochem van der Meer">}}
