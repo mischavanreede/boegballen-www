@@ -21,7 +21,7 @@ quaestor@boegballen.nl
 
 --- 
 #### Stamcafé
-Wij borrelen iedere twee weken in ons stamcafé [De Kluizenaar](http://www.dekluizenaar.nl/?lang=nl)
+Wij borrelen iedere twee weken in ons stamcafé [Van Ouds](https://cafevanoudsnijmegen.nl/)
 
 ---
 #### Contactformulier
