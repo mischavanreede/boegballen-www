@@ -69,3 +69,14 @@ comments: false
 
 ---
 Foto's door [Fleur Freke](mailto:fleur@freke.eu)
+
+### bijballen
+{{< gallery hover-effect="none" caption-effect="none" >}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 1">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 2">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 3">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 4">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 5">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 6">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 7">}}
+{{< /gallery >}}
