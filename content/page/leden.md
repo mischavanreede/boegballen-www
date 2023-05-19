@@ -54,8 +54,8 @@ comments: false
 ---
 ### Lichting XIII
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Thom Tavenier">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Mats Wapstra">}}
+{{< figure link="/img/leden/ThomTavenier.jpg" src="img/leden/ThomTavenier.jpg" caption="Thom Tavenier">}}
+{{< figure link="/img/leden/MatsWapstra.jpg" src="img/leden/MatsWapstra.jpg" caption="Mats Wapstra">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Tim Ansink">}}
 {{< /gallery >}}
 
