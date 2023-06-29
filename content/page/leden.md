@@ -68,8 +68,6 @@ comments: false
 {{< /gallery >}}
 
 ---
-Foto's door [Fleur Freke](mailto:fleur@freke.eu)
-
 ### bijballen
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 1">}}
