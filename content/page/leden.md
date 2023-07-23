@@ -68,13 +68,13 @@ comments: false
 {{< /gallery >}}
 
 ---
-### bijballen
+### Lichting XV
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 1">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 2">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 3">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 4">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 5">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 6">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="bijbal 7">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bauke Huijs">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bram Beltman">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Dennis Collin">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Koen Velthuis">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Maarten van de Kamp">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Simon van de Steen">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Stef Nijenhuis">}}
 {{< /gallery >}}
