@@ -5,15 +5,22 @@ comments: false
 ---
 
 ## Huidig bestuur
-### VIIIe Bestuur
+### IXe Bestuur
 
-Praeses: Mats Wapstra\
-Abactis: Emiel Fleer\
-Quaestor: Thom Tavenier
+Praeses: Thomas Hermsen\
+Abactis: Lars de Nooij\
+Quaestor: Michiel Storm
 
 &nbsp;
 
 ## Oud-besturen
+### VIIIe Bestuur
+
+![VIIIeBestuur](/img/bestuur/BestuurVIII.jpg)
+Praeses: Mats Wapstra\
+Abactis: Emiel Fleer\
+Quaestor: Thom Tavenier
+
 ### VIIe Bestuur
 
 ![VIIeBestuur](/img/bestuur/BestuurVII.jpg)
