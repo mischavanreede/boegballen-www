@@ -31,9 +31,21 @@ B. de Greef, MSc\
 Ing. P. Stoop
 #### Lichting VI
 Ing. D. Jongste
+#### Lichting VII
+C. van Bragt\
+D. Wilms van Kersbergen
 #### Lichting VIII
-B. Pouwer
+B. Pouwer\
+J. Leerling\
+L. Kubat\
+M. Prudon
+#### Lichting IX
+A. van Spijk\
+mr. J. Krul
 #### Lichting X
 M. van Reede
+#### Lichting XI
+R. van den Brule
 #### Lichting XII
+K.C. Stoetman Msc
 W. Tomassen
