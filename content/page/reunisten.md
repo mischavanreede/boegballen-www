@@ -47,5 +47,5 @@ M. van Reede
 #### Lichting XI
 R. van den Brule
 #### Lichting XII
-K.C. Stoetman Msc
+K.C. Stoetman Msc\
 W. Tomassen
