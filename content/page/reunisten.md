@@ -33,7 +33,7 @@ Ing. P. Stoop
 Ing. D. Jongste
 #### Lichting VII
 C. van Bragt\
-D. Wilms van Kersbergen
+D. Wilms van Kersbergen MSc, MA
 #### Lichting VIII
 B. Pouwer\
 J. Leerling\
@@ -47,5 +47,5 @@ M. van Reede
 #### Lichting XI
 R. van den Brule
 #### Lichting XII
-K.C. Stoetman Msc\
+K.C. Stoetman MSc\
 W. Tomassen
