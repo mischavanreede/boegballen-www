@@ -54,3 +54,12 @@ comments: false
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Simon van de Steen">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Stef Nijenhuis">}}
 {{< /gallery >}}
+
+---
+####
+{{< gallery hover-effect="none" caption-effect="none" >}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 1">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 2">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 3">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 4">}}
+{{< /gallery >}}
