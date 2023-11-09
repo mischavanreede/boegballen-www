@@ -5,7 +5,7 @@ comments: false
 ---
 
 #### Adres secretariaat
-Pater Brugmanstraat 1, 6522 EG, Nijmegen
+Marktstraat 109A, 6711 GX, Ede
 
 #### E-mailadressen:
 Praeses\
