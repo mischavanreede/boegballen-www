@@ -32,13 +32,13 @@ comments: false
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/ThomTavenier.jpg" src="img/leden/ThomTavenier.jpg" caption="Thom Tavenier">}}
 {{< figure link="/img/leden/MatsWapstra.jpg" src="img/leden/MatsWapstra.jpg" caption="Mats Wapstra">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Tim Ansink">}}
+{{< figure link="/img/leden/TimAnsink.jpg" src="img/leden/TimAnsink.jpg" caption="Tim Ansink">}}
 {{< /gallery >}}
 
 ---
 ### Lichting XIV
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Thomas Hermsen">}}
+{{< figure link="/img/leden/ThomasHermsen.jpg" src="img/leden/ThomasHermsen.jpg" caption="Thomas Hermsen">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Jochem van der Meer">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Lars de Nooij">}}
 {{< /gallery >}}
@@ -46,13 +46,13 @@ comments: false
 ---
 ### Lichting XV
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bauke Huijs">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bram Beltman">}}
+{{< figure link="/img/leden/BaukeHuis.jpg" src="img/leden/BaukeHuis.jpg" caption="Bauke Huijs">}}
+{{< figure link="/img/leden/BramBeltman.jpg" src="img/leden/BramBeltman.jpg" caption="Bram Beltman">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Dennis Collin">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Koen Velthuis">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Maarten van de Kamp">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Simon van de Steen">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Stef Nijenhuis">}}
+{{< figure link="/img/leden/KoenVelthuis.jpg" src="img/leden/KoenVelthuis.jpg" caption="Koen Velthuis">}}
+{{< figure link="/img/leden/MaartenvdKamp.jpg" src="img/leden/MaartenvdKamp.jpg" caption="Maarten van de Kamp">}}
+{{< figure link="/img/leden/SimonvdSteen.jpg" src="img/leden/SimonvdSteen.jpg" caption="Simon van de Steen">}}
+{{< figure link="/img/leden/StefNijenhuis.jpg" src="img/leden/StefNijenhuis.jpg" caption="Stef Nijenhuis">}}
 {{< /gallery >}}
 
 ---
