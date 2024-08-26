@@ -56,10 +56,10 @@ comments: false
 {{< /gallery >}}
 
 ---
-####
+### Lichting XVI
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 1">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 2">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 3">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Bijbal 4">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Douwe Feitsma">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Joes Pieters">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Joost Davina">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Lucas Besteman">}}
 {{< /gallery >}}
