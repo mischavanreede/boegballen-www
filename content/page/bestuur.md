@@ -9,7 +9,7 @@ comments: false
 
 Praeses: Maarten van de Kamp\
 Abactis: Dennis Colin\
-Quaestor: Simon van der Steen
+Quaestor: Simon van de Steen
 
 &nbsp;
 
