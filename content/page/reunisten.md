@@ -43,9 +43,17 @@ M. Prudon
 A. van Spijk\
 mr. J. Krul
 #### Lichting X
-M. van Reede
+M. van Reede\
+C. ten Dam
 #### Lichting XI
-R. van den Brule
+R. van den Brule\
+J. Swaving\
+W. Bonneur
 #### Lichting XII
 K.C. Stoetman MSc\
 W. Tomassen
+#### Lichting XIV
+J. van der Meer\
+L. de Nooij
+#### Lichting XV
+B. Huijs
