@@ -7,13 +7,19 @@ comments: false
 ## Huidig bestuur
 ### IXe Bestuur
 
-Praeses: Thomas Hermsen\
-Abactis: Lars de Nooij\
-Quaestor: Michiel Storm
+Praeses: Maarten van de Kamp\
+Abactis: Dennis Colin\
+Quaestor: Simon van der Steen
 
 &nbsp;
 
 ## Oud-besturen
+### IXe Bestuur
+
+Praeses: Thomas Hermsen\
+Abactis: Lars de Nooij\
+Quaestor: Michiel Storm
+
 ### VIIIe Bestuur
 
 ![VIIIeBestuur](/img/bestuur/BestuurVIII.jpg)
