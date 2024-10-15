@@ -8,7 +8,6 @@ comments: false
 ### IXe Bestuur
 
 ![VIIIeBestuur](/img/bestuur/BestuurIX.jpg)
-
 Praeses: Maarten van de Kamp\
 Abactis: Dennis Colin\
 Quaestor: Simon van de Steen
