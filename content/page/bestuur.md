@@ -7,7 +7,7 @@ comments: false
 ## Huidig bestuur
 ### IXe Bestuur
 
-<img src="/img/bestuur/BestuurIX.jpg" width="200" height="100">\
+![VIIIeBestuur](/img/bestuur/BestuurIX.jpg)
 
 Praeses: Maarten van de Kamp\
 Abactis: Dennis Colin\
