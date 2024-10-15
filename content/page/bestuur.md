@@ -7,6 +7,7 @@ comments: false
 ## Huidig bestuur
 ### IXe Bestuur
 
+![IXeBestuur](/img/bestuur/BestuurIX.jpg)
 Praeses: Maarten van de Kamp\
 Abactis: Dennis Colin\
 Quaestor: Simon van de Steen
