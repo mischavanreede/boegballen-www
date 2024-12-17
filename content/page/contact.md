@@ -5,7 +5,7 @@ comments: false
 ---
 
 #### Adres secretariaat
-Marktstraat 109A, 6711 GX, Ede
+Daalseweg 343, 6523 CB Nijmegen
 
 #### E-mailadressen:
 Praeses\
