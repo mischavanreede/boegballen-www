@@ -7,7 +7,7 @@ comments: false
 ## Huidig bestuur
 ### Xe Bestuur
 
-![VIIIeBestuur](/img/bestuur/BestuurIX.jpg)
+![XeBestuur](/img/bestuur/BestuurIX.jpg)
 Praeses: Maarten van de Kamp\
 Abactis: Dennis Colin\
 Quaestor: Simon van de Steen
