@@ -5,7 +5,7 @@ comments: false
 ---
 
 ## Huidig bestuur
-### IXe Bestuur
+### Xe Bestuur
 
 ![VIIIeBestuur](/img/bestuur/BestuurIX.jpg)
 Praeses: Maarten van de Kamp\
