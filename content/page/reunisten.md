@@ -44,7 +44,7 @@ A. van Spijk\
 mr. J. Krul
 #### Lichting X
 M. van Reede\
-C. ten Dam
+C. ten Dam, MSc
 #### Lichting XI
 R. van den Brule\
 J. Swaving\
