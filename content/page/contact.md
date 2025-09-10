@@ -5,7 +5,7 @@ comments: false
 ---
 
 #### Adres secretariaat
-Daalseweg 343, 6523 CB Nijmegen
+Heyendaalseweg 278, 6525 SL Nijmegen
 
 #### E-mailadressen:
 Praeses\
