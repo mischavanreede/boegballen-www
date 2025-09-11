@@ -5,13 +5,6 @@ comments: false
 ---
 
 ---
-### Lichting XI
-{{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/GlennLudwig.jpg" src="img/leden/GlennLudwig.jpg" caption="Glenn Ludwig">}}
-{{< figure link="/img/leden/LucHeurneman.jpg" src="img/leden/LucHeurneman.jpg" caption="Luc Heurneman">}}
-{{< /gallery >}}
-
----
 ### Lichting XII
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/EmielFleer.jpg" src="img/leden/EmielFleer.jpg" caption="Emiel Fleer">}}
@@ -37,9 +30,9 @@ comments: false
 ### Lichting XV
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< figure link="/img/leden/BramBeltman.jpg" src="img/leden/BramBeltman.jpg" caption="Bram Beltman">}}
-{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Dennis Collin">}}
-{{< figure link="/img/leden/MaartenvdKamp.jpg" src="img/leden/MaartenvdKamp.jpg" caption="Maarten van de Kamp">}}
-{{< figure link="/img/leden/SimonvdSteen.jpg" src="img/leden/SimonvdSteen.jpg" caption="Simon van de Steen">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Dennis Colin">}}
+{{< figure link="/img/leden/MaartenvdKamp.jpg" src="img/leden/MaartenvdKamp.jpg" caption="Maarten van der Kamp">}}
+{{< figure link="/img/leden/SimonvdSteen.jpg" src="img/leden/SimonvdSteen.jpg" caption="Simon van der Steen">}}
 {{< figure link="/img/leden/StefNijenhuis.jpg" src="img/leden/StefNijenhuis.jpg" caption="Stef Nijenhuis">}}
 {{< /gallery >}}
 
@@ -50,4 +43,14 @@ comments: false
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Joes Pieters">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Joost Davina">}}
 {{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Lucas Besteman">}}
+{{< /gallery >}}
+
+### Lichting XVII
+{{< gallery hover-effect="none" caption-effect="none" >}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Cas Hummelen">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Joost Elias">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Marijn Morssink">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Pieter van de Meer">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Rick Jacobs">}}
+{{< figure link="/img/leden/Bijbal.jpg" src="img/leden/Bijbal.jpg" caption="Siem Bollen">}}
 {{< /gallery >}}
