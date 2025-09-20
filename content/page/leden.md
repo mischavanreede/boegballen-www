@@ -7,7 +7,6 @@ comments: false
 ---
 ### Lichting XII
 {{< gallery hover-effect="none" caption-effect="none" >}}
-{{< figure link="/img/leden/EmielFleer.jpg" src="img/leden/EmielFleer.jpg" caption="Emiel Fleer">}}
 {{< figure link="/img/leden/MichielStorm.jpg" src="img/leden/MichielStorm.jpg" caption="Michiel Storm">}}
 {{< figure link="/img/leden/MilanBooms.jpg" src="img/leden/MilanBooms.jpg" caption="Milan Booms">}}
 {{< /gallery >}}

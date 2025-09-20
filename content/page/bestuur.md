@@ -23,7 +23,6 @@ Quaestor: Michiel Storm
 
 ### VIIIe Bestuur
 
-![VIIIeBestuur](/img/bestuur/BestuurVIII.jpg)
 Praeses: Mats Wapstra\
 Abactis: Emiel Fleer\
 Quaestor: Thom Tavenier
@@ -37,7 +36,6 @@ Quaestor: Luc Heurneman
 
 ### VIe Bestuur
 
-![VIeBestuur](/img/bestuur/BestuurVI.jpeg)
 Praeses: Emiel Fleer\
 Abactis: Glenn Ludwig\
 Quaestor: Casper ten Dam
