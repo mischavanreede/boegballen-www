@@ -5,6 +5,16 @@ comments: false
 ---
 
 ## Huidig bestuur
+### XIe Bestuur
+
+Praeses: Thom Tavenier\
+Abactis: Stef Nijenhuis\
+Quaestor: Thomas Hermsen
+
+&nbsp;
+
+## Oud-besturen
+
 ### Xe Bestuur
 
 ![XeBestuur](/img/bestuur/BestuurX.JPG)
@@ -12,9 +22,6 @@ Praeses: Maarten van de Kamp\
 Abactis: Dennis Colin\
 Quaestor: Simon van de Steen
 
-&nbsp;
-
-## Oud-besturen
 ### IXe Bestuur
 
 Praeses: Thomas Hermsen\
