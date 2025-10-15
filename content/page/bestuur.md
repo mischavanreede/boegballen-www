@@ -36,7 +36,6 @@ Quaestor: Thom Tavenier
 
 ### VIIe Bestuur
 
-![VIIeBestuur](/img/bestuur/BestuurVII.jpg)
 Praeses: Milan Booms\
 Abactis: Wessel Bonneur\
 Quaestor: Luc Heurneman
@@ -49,7 +48,6 @@ Quaestor: Casper ten Dam
 
 ### Ve Bestuur
 
-![VeBestuur](/img/bestuur/BestuurV.jpg)
 Praeses: Glenn Ludwig\
 Abactis: Rik van den Brule\
 Quaestor: Mischa van Reede
